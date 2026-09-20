@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.session
+*.session-journal
+kyren_snippets.json
+kyren_notes_store.json
+kyren_gofile_token.txt
+kyren_gofile_history.json
